@@ -7,7 +7,14 @@
     "latest_round": {
       "round": 1127,
       "draw_date": "2025-06-28",
-      "winning_numbers": [7, 12, 23, 31, 38, 42],
+      "winning_numbers": [
+        7,
+        12,
+        23,
+        31,
+        38,
+        42
+      ],
       "bonus_number": 15,
       "prize_info": {
         "total_sales": 112847265000,
@@ -36,3 +43,4 @@
       }
     }
   }
+}
