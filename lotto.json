@@ -6,7 +6,7 @@
     "total_rounds": 1181,
     "latest_round": {
       "round": 1127,
-      "draw_date": "2025-06-28",
+      "draw_date": "2025-07-19",
       "winning_numbers": [
         8,
         10,
@@ -22,22 +22,6 @@
           "first_place": {
             "count": 2,
             "prize_per_winner": 1593643500
-          },
-          "second_place": {
-            "count": 85,
-            "prize_per_winner": 66764300
-          },
-          "third_place": {
-            "count": 2847,
-            "prize_per_winner": 1981950
-          },
-          "fourth_place": {
-            "count": 141205,
-            "prize_per_winner": 50000
-          },
-          "fifth_place": {
-            "count": 2435890,
-            "prize_per_winner": 5000
           }
         }
       }
