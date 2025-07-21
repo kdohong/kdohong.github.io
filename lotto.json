@@ -3,25 +3,25 @@
     "game_type": "로또 6/45",
     "currency": "KRW",
     "last_updated": "2025-07-02T20:00:00+09:00",
-    "total_rounds": 1127,
+    "total_rounds": 1181,
     "latest_round": {
       "round": 1127,
       "draw_date": "2025-06-28",
       "winning_numbers": [
-        7,
-        12,
-        23,
-        31,
-        38,
-        42
+        8,
+        10,
+        14,
+        20,
+        33,
+        41
       ],
-      "bonus_number": 15,
+      "bonus_number": 28,
       "prize_info": {
         "total_sales": 112847265000,
         "winners": {
           "first_place": {
             "count": 2,
-            "prize_per_winner": 2840567500
+            "prize_per_winner": 1593643500
           },
           "second_place": {
             "count": 85,
